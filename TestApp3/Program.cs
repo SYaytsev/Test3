@@ -136,7 +136,9 @@ namespace TestApp3
             Test4();
             // 5-th test группа женщин
             Test5();
+            // 6-th test возвращает мужчит от 2 до 3-го
             Test6();
+            // 7-th test количество пользователей с ДР сегодня в городе Киеве
             Test7();
 
             Console.ReadLine();
